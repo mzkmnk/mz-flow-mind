@@ -19,7 +19,7 @@ importers:
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@cloudflare/next-on-pages':
-        specifier: '1'
+        specifier: ^1.13.10
         version: 1.13.10(@cloudflare/workers-types@4.20250321.0)(vercel@41.4.1)(wrangler@4.4.0(@cloudflare/workers-types@4.20250321.0))
       '@cloudflare/workers-types':
         specifier: ^4.20250321.0
